@@ -15,5 +15,14 @@ Provincias como Tucumán, Río Negro, Corrientes, Mendoza, Santa Cruz, La Pampa,
 
 El organismo que regula las apuestas y juegos de azar en la capital es el Instituto Provincial de Lotería y Casinos de la Provincia de Buenos Aires (IPLyC), el cual hasta hace no mucho tiempo (2019) autorizó las apuestas online dentro de la provincia y otorgó licencias de operación válidas por 15 años a casinos online reconocidos como Bet365, William Hill, Bplay y BetWarrior.
 
-### ?quien es mi audiencia?
+### ¿quien es mi audiencia?
 hombres de entre 25 y 40 años
+
+### ¿Qué necesidades de búsqueda tiene los apostadores?
+No obstante, de acuerdo con un estudio realizado por Jiménez et al. (2013), solo el 7% de la población mundial participa de manera regular en juegos y de estos, solo el 0.4% serían considerados jugadores patológicos (como se citó en Navas & Perales, 2014, p. 159).
+
+### ¿Quién es el dueño o quién tiene la información?
+
+### ¿Cuál es su volumen? 
+
+### ¿Cuál es su dinamismo?
