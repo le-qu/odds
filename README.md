@@ -1,11 +1,12 @@
 # odds
 ### metas del negocio :
-La meta del negocio seria dar a los usuarios un entretenimento por medio de apuestas
+- La meta del negocio seria dar a los usuarios un entretenimento por medio de apuestas
 las cuales tendran las garantias de la pagina y marca de la empresa
 se podran hacer apuestas a deportes subcripciones con avisos cada ves que ocurra un favoritos
 la pagina misma dara un servicio de ente regulador de apuestas de lo que sea con informacion legal dependiendo de la apuesta y 
 sus regiones los participantes tendran un status de participacion (bueno o malo dependiendo del caso)
 tendremos la opcion premiun que dara una estimacion de las mejores cuotas (mejores apuestas dependiendo el riesgo)
+- El usuario podra entrar a una sala donde apostar con algun amigo( para esto tienen que ser premiun y asi se le dara un status)
 
 
 
